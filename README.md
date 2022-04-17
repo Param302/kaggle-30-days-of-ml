@@ -6,4 +6,4 @@ This repository contains my kaggle 30-days-of-ml competition python notebooks.
 My final rank was 3171 reached 40% of total participants in competition.
 ![final rank img](https://github.com/Param302/kaggle-30-days-of-ml/blob/main/final_rank.png)
 
-Kaggle id: [@Param302(https://www.kaggle.com/param302)
+Kaggle id: [@Param302](https://www.kaggle.com/param302)
