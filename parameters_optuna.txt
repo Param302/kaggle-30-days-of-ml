@@ -1,0 +1,23 @@
+1000:
+{'learning_rate': 0.0538129866548988,
+ 'reg_lambda': 78.83024499918844,
+ 'reg_alpha': 1.1789981443997697,
+ 'subsample': 0.5850723307909039,
+ 'colsample_bytree': 0.24017852529032113,
+ 'max_depth': 5}
+
+2000:
+{'learning_rate': 0.04353489504974672,
+ 'reg_lambda': 4.545379085259231e-05,
+ 'reg_alpha': 3.943406343157982e-06,
+ 'subsample': 0.7747461085845304,
+ 'colsample_bytree': 0.1223723907272958,
+ 'max_depth': 3}
+
+5000:
+{'learning_rate': 0.023172693725536604,
+ 'reg_lambda': 0.0010005788328675566,
+ 'reg_alpha': 3.871785864631445e-06,
+ 'subsample': 0.998601648186681,
+ 'colsample_bytree': 0.23009931707478923,
+ 'max_depth': 5}

@@ -1,0 +1,5 @@
+*.png
+*.csv
+!submission_16.csv
+change_ids.py
+sample.py
